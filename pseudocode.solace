@@ -5,7 +5,7 @@ node Counter : hardware (
 ) {
     init {
         x = 5;
-        out <- x;
+        numbers <- x;
 
     }
 
